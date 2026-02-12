@@ -2,6 +2,12 @@
 
 
 
+## Ziņot par GMail kontu
+[Report Abuse](https://support.google.com/mail/contact/abuse?hl=en)
+
+## IP Reputācijas pārbaude
+[IP Abuse checker](https://ip-checker.info/)
+
 ## Latviešu rockYou
 [RockYou](https://github.com/offseq/rockyou-lv/blob/main/rockyou-lv.txt)
 Jo: Ilustrācijai par vārdu sarakstiem.
