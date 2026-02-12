@@ -10,11 +10,13 @@
 ## Ievainojamību datubāze
 [Exploit-DB](https://www.exploit-db.com/)
 JO: Žanra klasika.
+[OpenCVE](https://www.opencve.io/)
+SANS ieteiktais apkopojums.
 
 ## Living Off the Land ievainojamības:
 [WINDOWS](https://lolbas-project.github.io/)
 [LINUX](https://gtfobins.org/)
-JO:
+Noderīgas testos un CTF.
 
 ## Ievainojamību datubāze
 [SecurityVulnerability](https://securityvulnerability.io/)
@@ -24,3 +26,13 @@ JO: Nav tas fokuss uz izmantošanu kas ExploitDB, vairāk palasīties PAR ievain
 [the Zoo](https://github.com/ytisf/theZoo)
 [vx-underground](https://vx-underground.org/)
 [Malware Bazaar](https://bazaar.abuse.ch/)
+
+## Ziņas
+[SANS](https://www.sans.org/newsletters)
+[Cybernews](https://cybernews.com/)
+
+## Twitter
+[Andy Greenberg](https://x.com/a_greenberg)
+[VX-Underground](https://x.com/vxunderground)
+[Florian Roth](https://x.com/cyb3rops)
+[BleepingComputer](https://x.com/BleepinComputer)
