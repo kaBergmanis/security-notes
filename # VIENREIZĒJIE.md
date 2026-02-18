@@ -1,5 +1,11 @@
 # VIENREIZĒJIE
 
+## AI izmantojums uzbrukumā
+[IISS raksts par uzbrukumu](https://www.iiss.org/online-analysis/survival-online/2026/02/weaponising-ai-the-new-cyber-attack-surface/) un paša [Anthropic reportāža](https://www.anthropic.com/news/disrupting-AI-espionage).
+
+## ChatGPT un Google incidents 2025.
+[Ekrānšāviņš](https://www.reddit.com/r/ChatGPT/comments/1melf0e/shared_gpt_conversations_are_indexed_via_search/) un [kopsavilkuma raksts](https://www.spellbook.legal/learn/google-indexting-chatgpt).
+
 ## Par PDF forensiku
 [Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
 JO: 
