@@ -6,6 +6,7 @@ Uz šo atsaucas likumi. Skatīt pielikumus.
 
 ## VDAR / GDPR
 [Pilnais teksts vairākās valodās](https://gdpr-text.com/lv/)
+[Sodu saraksts](https://www.enforcementtracker.com)
 
 ## MOD dokumentu sagataves
 [Noderīgs sākuma punkts, turklāt savietojams ar valsts prasībām](https://www.mod.gov.lv/lv/kiberdrosibas-parvaldibas-dokumentacijas-paraugi)
