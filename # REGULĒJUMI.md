@@ -4,6 +4,12 @@
 [MK Noteikumi](https://likumi.lv/ta/id/361481-minimalas-kiberdrosibas-prasibas)
 Uz šo atsaucas likumi. Skatīt pielikumus.
 
+## VDAR / GDPR
+[Pilnais teksts vairākās valodās](https://gdpr-text.com/lv/)
+
+## MOD dokumentu sagataves
+[Noderīgs sākuma punkts, turklāt savietojams ar valsts prasībām](https://www.mod.gov.lv/lv/kiberdrosibas-parvaldibas-dokumentacijas-paraugi)
+
 ## AI Akts
 [Ieviešanas soļi](https://www.varam.gov.lv/lv/maksliga-intelekta-mi-akts)
 
