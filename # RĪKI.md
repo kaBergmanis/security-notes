@@ -16,6 +16,11 @@ Jo: Ilustrācijai par vārdu sarakstiem.
 [Rīku saraksts](https://bellingcat.gitbook.io/toolkit/categories/image-video/metadata)
 JO: OSINT.
 
+## CF Hero
+[Cloudflare serveru identifikators](https://github.com/musana/CF-Hero)
+JO: Rīks RT darbību uzsākšanai.
+
+
 ## Hackerverse
 [Hackerverse CTF](https://www.hackerverse.com/)
 JO: Raugulis šito lieto un uzvar. Ja gribas patrenēt kaut kas prasmes...
