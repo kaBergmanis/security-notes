@@ -3,6 +3,9 @@
 ## Vietējais bizness, jauna ideja
 [Family Securit](https://family.securit.lv/)
 
+## Breaking Bitlocker
+[Pamācošs video](https://www.youtube.com/watch?v=wTl4vEednkQ)
+
 ## AI izmantojums uzbrukumā
 [IISS raksts par uzbrukumu](https://www.iiss.org/online-analysis/survival-online/2026/02/weaponising-ai-the-new-cyber-attack-surface/) un paša [Anthropic reportāža](https://www.anthropic.com/news/disrupting-AI-espionage).
 
