@@ -1,5 +1,8 @@
 # AVOTI
 
+## AI radītie drošības incidenti
+[Tops + avoti](https://www.felonybench.com/#felony-records)
+
 ## OWASP ceļveži
 [Authentication cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
