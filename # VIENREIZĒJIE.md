@@ -1,5 +1,12 @@
 # VIENREIZĒJIE
 
+## VM ar ventilatoru?
+[Lai vīruss normāli darbotos](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
+
+## Kāpēc antivīruss ir kaitīgs
+[Sākotnējā diskusija par kernel tiesībām un neauditētiem failiem](https://www.reddit.com/r/changemyview/comments/3yohet/cmv_antivirus_software_is_useless_and_plain/)
+[CrowdStrike BSOD 2024](https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages)
+
 ## Vietējais bizness, jauna ideja
 [Family Securit](https://family.securit.lv/)
 
