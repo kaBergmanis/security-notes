@@ -1,5 +1,8 @@
 # VIENREIZĒJIE
 
+## Login mode
+[Saules paneļi ar login mode, kas ignorē paroli.](https://jakkaru.de/articles/sungrow-vulnerability-exposes-gigawatts-worldwide)
+
 ## VM ar ventilatoru?
 [Lai vīruss normāli darbotos](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 
