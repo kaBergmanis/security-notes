@@ -1,5 +1,10 @@
 # AVOTI
 
+## Lietu interneta meklētāji
+[Censys](https://search.censys.io)
+[Shodan](https://www.shodan.io)
+[Modat](https://modat.io)
+
 ## AI radītie drošības incidenti
 [Tops + avoti](https://www.felonybench.com/#felony-records)
 
