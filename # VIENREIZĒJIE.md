@@ -1,5 +1,8 @@
 # VIENREIZĒJIE
 
+## Malware analīze
+[Izklausās, ka viņš zina, ko runā, un ir diezgan pissed off. Lasās labi.](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+
 ## Login mode
 [Saules paneļi ar login mode, kas ignorē paroli.](https://jakkaru.de/articles/sungrow-vulnerability-exposes-gigawatts-worldwide)
 
