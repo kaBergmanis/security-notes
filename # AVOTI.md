@@ -4,8 +4,11 @@
 [Censys](https://search.censys.io)
 [Shodan](https://www.shodan.io)
 [Modat](https://modat.io)
+
 Shodan: port:502 country:LV
+
 Censys (CenQL): host.services.port=502 and host.location.country_code="LV"
+
 Modat: port = 502 and geo.country = Latvia
 
 ## AI radītie drošības incidenti
