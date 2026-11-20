@@ -1,6 +1,8 @@
 # RĪKI
 
 
+## CERT rokasgrāmata
+[Dažādi praktiskie padomi](https://rokasgramata.esidross.lv/rokasgramata/)
 
 ## Ziņot par GMail kontu
 [Report Abuse](https://support.google.com/mail/contact/abuse?hl=en)
