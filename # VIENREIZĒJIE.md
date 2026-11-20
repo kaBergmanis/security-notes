@@ -1,5 +1,10 @@
 # VIENREIZĒJIE
 
+
+## AI bēgšana no laboratorijas
+[Ko 2026 izbēgšana nozīmē aizstāvjiem?](https://www.mishcon.com/news/when-the-sandbox-wasnt-a-sandbox-what-the-2026-ai-containment-failures-mean-for-defenders)
+[Kad tests kļūst par mērķi](https://labs.cloudsecurityalliance.org/research/strategic-risk-agentic-ai-eval-containment-failures-v1-0-csa/)
+
 ## Malware analīze
 [Izklausās, ka viņš zina, ko runā, un ir diezgan pissed off. Lasās labi.](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 
