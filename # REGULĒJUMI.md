@@ -9,7 +9,7 @@ Uz šo atsaucas likumi. Skatīt pielikumus.
 [Sodu saraksts](https://www.enforcementtracker.com)
 
 ## MOD dokumentu sagataves
-[Noderīgs sākuma punkts, turklāt savietojams ar valsts prasībām](https://www.mod.gov.lv/lv/kiberdrosibas-parvaldibas-dokumentacijas-paraugi)
+[Noderīgs sākuma punkts, turklāt savietojams ar valsts prasībām](https://www.cyber.gov.lv/en/node/70)
 
 ## AI Akts
 [Ieviešanas soļi](https://www.varam.gov.lv/lv/maksliga-intelekta-mi-akts)
