@@ -1,5 +1,8 @@
 # AVOTI
 
+## tl;dr
+[CVE kopsavilkums](https://tldrcve.com/cves/)
+
 ## Lietu interneta meklētāji
 [Censys](https://search.censys.io)
 [Shodan](https://www.shodan.io)
